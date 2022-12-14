@@ -1,0 +1,5 @@
+person:
+  name: 'Sam Wong'
+  age: 28
+  gender: male
+  hobby: 'photography'
