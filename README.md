@@ -1,2 +1,2 @@
-# TIL_python_tricks
-What I've Learn in Python Programming Language
+# TIL Python Tricks
+This repository will be act as a documentary of learning python tricks. Possibly, it may helps people someday.
